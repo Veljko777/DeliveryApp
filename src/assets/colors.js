@@ -1,3 +1,3 @@
 export default {
-  headerBackground: "#03c2fc",
+  headerBackground: "#00aec7",
 };
